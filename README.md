@@ -1,3 +1,4 @@
 # Reto-2
 diagrama uml de un concierto
-![concierto drawio](https://github.com/Lale31/Reto-2/assets/163346244/e5b8d7f9-2aa0-4549-b801-9b3c887496e2)
+![concierto drawio (1)](https://github.com/Lale31/Reto-2/assets/163346244/c9d8a8a4-1117-4264-9622-9e2ee43c8116)
+
